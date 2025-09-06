@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Butter Chicken Recipe</title>
+</head>
+<body>
+
+  <h1>Butter Chicken</h1>
+  <p><strong>Prep Time:</strong> 20 minutes</p>
+  <p><strong>Cook Time:</strong> 40 minutes</p>
+  <p><strong>Servings:</strong> 4</p>
+
+  <img src="https://images.unsplash.com/photo-1605470664902-a6060d63b39a?auto=format&fit=crop&w=800&q=80" 
+       alt="Butter Chicken" 
+       width="500">
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>500g boneless chicken (cubed)</li>
+    <li>1 cup plain yogurt</li>
+    <li>1 tbsp lemon juice</li>
+    <li>2 tsp garam masala</li>
+    <li>1 tsp chili powder</li>
+    <li>1 tsp turmeric</li>
+    <li>2 tbsp butter</li>
+    <li>1 onion, finely chopped</li>
+    <li>2 cloves garlic, minced</li>
+    <li>1 tbsp grated ginger</li>
+    <li>1 cup tomato puree</li>
+    <li>1/2 cup heavy cream</li>
+    <li>Salt to taste</li>
+    <li>Fresh cilantro (for garnish)</li>
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    <li>Marinate chicken in yogurt, lemon juice, and spices. Let rest for at least 1 hour.</li>
+    <li>Heat butter in a pan and sauté onions until golden brown.</li>
+    <li>Add garlic and ginger, cook for 1 minute.</li>
+    <li>Add tomato puree and cook for 10 minutes.</li>
+    <li>Add chicken and cook until fully cooked (15–20 minutes).</li>
+    <li>Stir in cream, simmer for 5–10 minutes. Season with salt.</li>
+    <li>Garnish with cilantro and serve hot with naan or rice.</li>
+  </ol>
+
+  <h2>Notes</h2>
+  <p>This dish is creamy, flavorful, and best served with warm naan or basmati rice. Adjust spice level to your preference.</p>
+
+  <footer>
+    <p>&copy; 2025 Your Name | Butter Chicken Recipe</p>
+  </footer>
+
+</body>
+</html>
